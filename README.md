@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # smc
 
 A new Flutter project.
